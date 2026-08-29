@@ -1,3 +1,2 @@
 # proyecto_lenguajes
 ...
-<img width="544" height="445" alt="image" src="https://github.com/user-attachments/assets/107d45c6-e668-4ec5-ae77-cb8c67aee63c" />
