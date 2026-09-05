@@ -5,7 +5,7 @@ Integrantes:
 1. Carlos Andres Manrique Gutierrez
 2. Valentina Oriana Salazar Caballero
 3. Leandro Herrera Tovar
-4. Nombre 4
-5. Nombre 5
+4. Sergio Adrián Martínez Marulanda
+5. Carlos Daniel Montenegro Nery
  
 Actividad: Sistemas de Control de Versiones con Git
