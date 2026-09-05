@@ -12,3 +12,7 @@ Integrantes:
 Aprendí a crear una rama de trabajo y registrar cambios con Git. 
 
 Actividad: Sistemas de Control de Versiones con Git
+
+Contribución de Sergio Adrián Martínez Marulanda
+------------------------- 
+Aprendí a crear una rama de trabajo y registrar cambios con Git.
