@@ -20,4 +20,4 @@ Aprendí a crear una rama de trabajo y registrar cambios con Git.
 
  Contribución de Carlos Andres Manrique Gutierrez
 =======
- Carlos Daniel Montenegro Nery
+Aprendí a crear una rama de trabajo y registrar cambios con Git. 
