@@ -9,6 +9,20 @@ Integrantes:
 5. Carlos Daniel Montenegro Nery
  
 Actividad: Sistemas de Control de Versiones con Git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Contribución de Leandro Herrera
 ------------------------- 
 Aprendí a crear una rama de trabajo y registrar cambios con Git.
