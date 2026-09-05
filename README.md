@@ -28,3 +28,9 @@ Aprendí a crear una rama de trabajo y registrar cambios con Git.
 Contribución de Leandro Herrera
 ------------------------- 
 Aprendí a crear una rama de trabajo y registrar cambios con Git.
+
+Contribución de Valentina
+------------------------------------------
+Aprendí a crear una rama de trabajo y registrar cambios con Git.
+
+Actividad: Sistemas de Control de Versiones con Git
