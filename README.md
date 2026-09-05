@@ -8,4 +8,8 @@ Integrantes:
 4. Sergio Adrián Martínez Marulanda
 5. Carlos Daniel Montenegro Nery
  
+ Contribución de Carlos Andres Manrique Gutierrez
+------------------------- 
+Aprendí a crear una rama de trabajo y registrar cambios con Git. 
+
 Actividad: Sistemas de Control de Versiones con Git
